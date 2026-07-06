@@ -1,0 +1,92 @@
+Bike Sales Dashboard Analysis Report
+Executive Summary
+
+This dashboard analyzes 1,283 bike sales records across multiple Indian states and brands. It provides insights into pricing, resale value, mileage, fuel type distribution, and manufacturing trends.
+
+Key KPIs
+KPI	Value	Insight
+Total Bikes	1,283	Large dataset suitable for trend analysis
+Average Selling Price	₹224,329	Mid-range bike market dominates
+Average Resale Price	₹133,829	Around 60% of original selling price retained
+Average Mileage	67.19 km/l (Dashboard appears to display 671889.26 due to formatting error)	Indicates good fuel efficiency across models
+
+⚠️ Dashboard Issue:
+The "Average Mileage" KPI appears incorrectly formatted as 671889.26 instead
+
+give the insight of this dashboard and dataset , which i can apply in my github
+
+Based on your dataset and dashboard, here is a professional Insights Report that you can directly add to a reports/Bike_Sales_Insights.md file in your GitHub repository.
+
+📊 Bike Sales Dashboard Insights
+Project Overview
+
+This dashboard analyzes 1,283 bike sales records across multiple Indian states and brands. It provides insights into bike pricing, resale value, mileage, fuel type distribution, and manufacturing trends, helping understand customer preferences and market performance.
+
+📈 Key Performance Indicators (KPIs)
+Metric	Value
+Total Bikes	1,283
+Average Selling Price	₹224,329
+Average Resale Price	₹133,829
+Average Mileage	67.19 km/l (Expected)
+Insight
+The dataset contains 1,283 bike listings, providing a reliable sample for analysis.
+Bikes retain approximately 60% of their original selling price on average.
+The average selling price indicates a market focused on mid-range premium motorcycles.
+🔹 Brand Performance
+Insight
+Kawasaki has the highest number of listed bikes, indicating strong availability in the dataset.
+Yamaha, KTM, and Royal Enfield also have high listing volumes, showing strong market presence.
+Honda and Bajaj have comparatively fewer listings.
+Business Insight
+
+High listing volume may indicate strong customer demand or a larger second-hand market for these brands.
+
+💰 Average Price by Brand
+Insight
+Bajaj has the highest average selling price in this dataset.
+Hero and Yamaha also maintain competitive average prices.
+Honda has the lowest average selling price among the major brands.
+Business Insight
+
+Premium pricing does not necessarily depend on brand popularity; it is also influenced by model type, manufacturing year, and engine capacity.
+
+⛽ Fuel Type Distribution
+Fuel Type	Share
+Hybrid	34%
+Electric	33%
+Petrol	33%
+Insight
+
+The sales distribution is almost equally divided among all three fuel types.
+
+Business Insight
+
+The market shows a balanced customer preference, indicating growing acceptance of electric and hybrid bikes alongside traditional petrol motorcycles.
+
+📅 Manufacturing Year Trend
+Insight
+Bike listings fluctuate across manufacturing years.
+Sales decline slightly between 2016–2021.
+Listings increase again in 2022–2024, indicating growing availability of newer bikes.
+Business Insight
+
+Customers are increasingly interested in newer models with improved technology and better fuel efficiency.
+
+🏍️ Dataset Observations
+
+The dataset contains valuable attributes including:
+
+Brand
+Model
+State
+Selling Price
+Resale Price
+Mileage
+Fuel Type
+Engine Capacity
+Owner Type
+Seller Type
+Insurance Status
+Registration Year
+
+These fields enable comprehensive market analysis and customer behavior insights.
